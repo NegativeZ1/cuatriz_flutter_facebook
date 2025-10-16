@@ -14,4 +14,3 @@ class _NotificationPageState extends State<NotificationPage> {
   }
 }
 
-#sample
