@@ -13,3 +13,5 @@ class _NotificationPageState extends State<NotificationPage> {
     return const Placeholder();
   }
 }
+
+#sample
